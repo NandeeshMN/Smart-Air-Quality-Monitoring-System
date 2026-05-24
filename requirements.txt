@@ -1,0 +1,6 @@
+dash
+plotly
+pyserial
+numpy
+scikit-fuzzy
+scipy
