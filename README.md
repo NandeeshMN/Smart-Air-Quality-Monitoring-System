@@ -106,8 +106,6 @@ Smart-Air-Quality-Monitoring-System/
 
 ---
 
----
-
 
 ## 📈 Working Principle
 
